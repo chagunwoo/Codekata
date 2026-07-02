@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="codekata/codekata.vcxproj" />
+  <Project Path="codekata/codekata.vcxproj" Id="f8f810e4-4861-4fda-a7be-cfc372d697a9" />
 </Solution>
