@@ -21,7 +21,13 @@
     <ClCompile Include="codekata2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="coodekata3.c">
+    <ClCompile Include="codekata3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="codekata4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="codekata5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
