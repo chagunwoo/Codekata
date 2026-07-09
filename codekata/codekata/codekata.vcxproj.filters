@@ -36,5 +36,8 @@
     <ClCompile Include="codekata7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="codekata8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
