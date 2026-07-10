@@ -147,6 +147,7 @@
     <ClCompile Include="codekata6.c" />
     <ClCompile Include="codekata7.c" />
     <ClCompile Include="codekata8.c" />
+    <ClCompile Include="codekata9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
