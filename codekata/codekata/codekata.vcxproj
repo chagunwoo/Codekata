@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="codekata1.c" />
     <ClCompile Include="codekata10.c" />
+    <ClCompile Include="codekata11.c" />
     <ClCompile Include="codekata2.c" />
     <ClCompile Include="codekata5.c" />
     <ClCompile Include="codekata3.c" />
