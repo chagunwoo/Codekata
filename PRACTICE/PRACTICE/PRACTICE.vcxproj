@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f8f810e4-4861-4fda-a7be-cfc372d697a9}</ProjectGuid>
-    <RootNamespace>codekata</RootNamespace>
+    <ProjectGuid>{f7326452-e62a-4445-b706-2e7f28c63b7a}</ProjectGuid>
+    <RootNamespace>PRACTICE</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,18 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="codekata1.c" />
-    <ClCompile Include="codekata10.c" />
-    <ClCompile Include="codekata11.c" />
-    <ClCompile Include="codekata12.c" />
-    <ClCompile Include="codekata2.c" />
-    <ClCompile Include="codekata5.c" />
-    <ClCompile Include="codekata3.c" />
-    <ClCompile Include="codekata4.c" />
-    <ClCompile Include="codekata6.c" />
-    <ClCompile Include="codekata7.c" />
-    <ClCompile Include="codekata8.c" />
-    <ClCompile Include="codekata9.c" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
