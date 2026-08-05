@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="codekata25.cpp" />
     <ClCompile Include="codekata16.cpp" />
     <ClCompile Include="codekata1.c" />
     <ClCompile Include="codekata10.c" />
