@@ -108,5 +108,8 @@
     <ClCompile Include="codekata31.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="codekata32.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
