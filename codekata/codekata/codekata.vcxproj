@@ -167,6 +167,7 @@
     <ClCompile Include="codekata33.cpp" />
     <ClCompile Include="codekata34.cpp" />
     <ClCompile Include="codekata35.cpp" />
+    <ClCompile Include="codekata36.cpp" />
     <ClCompile Include="codekata5.c" />
     <ClCompile Include="codekata3.c" />
     <ClCompile Include="codekata4.c" />
